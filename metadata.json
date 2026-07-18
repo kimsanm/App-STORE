@@ -1,0 +1,6 @@
+{
+  "name": "App Store Manager",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងកម្មវិធី App Store និងវិភាគទិន្នន័យនៃការទាញយក និងអ្នកប្រើប្រាស់ (App Store Management & Download Analytics)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
